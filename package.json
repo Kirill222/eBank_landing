@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kirill222.github.io/react_website_smooth_scrolling_styled_components",
-  "name": "react_smooth_scrolling_website",
+  "homepage": "https://kirill222.github.io/eBank_landing",
+  "name": "eank_landing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
